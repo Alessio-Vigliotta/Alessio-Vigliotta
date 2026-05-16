@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alessio-Vigliotta
-- 🌱 I’m currently learning Computer Science @ University Of Surrey
+- 🌱 I’m currently studying Computer Science @ University Of Surrey
 - 👀 I’m interested in Quantum Computing, Machine Learning & Cyber Security
 
 
